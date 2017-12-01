@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D5F73</color>
+    <color name="colorPrimaryDark">#538EA6</color>
+    <color name="colorAccent">#F2D1B3</color>
+    <color name="colorBackground">#F2B8A2</color>
+    <color name="orichalkaColor">#aaf0d1</color>
+</resources>

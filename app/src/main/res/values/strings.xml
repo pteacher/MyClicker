@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Кликер</string>
+    <string name="button_name">ЖМЯК!</string>
+    <string name="clicker_text">0</string>
+    <string name="button_about">Об авторе</string>
+    <string name="about_text">Приложение бережно создано Р.Р.</string>
+</resources>
