@@ -10,6 +10,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+// Teacher was here
 public class MainActivity extends AppCompatActivity {
     TextView textView;
     Button buttonAbout;
